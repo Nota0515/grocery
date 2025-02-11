@@ -21,11 +21,11 @@ const About = () => {
                             <div className="xl:space-y-7 lg:space-y-5 md:space-y-7 space-y-5 sm:mt-0 sm:px-0">
                                 {/* Title */}
                                 <h2 className="xl:text-3xl md:text-3xl lg:text-2xl text-2xl font-semibold text-gray-800">
-                                    Welcome to Our Grocery App
+                                    Welcome to Our Kirana App
                                 </h2>
                                 {/* Article */}
                                 <p className=" text-justify xl:text-base lg:text-sm md:text-base text-sm text-gray-600">
-                                    At <strong>Grocery</strong>, we are committed to providing you with the freshest
+                                    At <strong>Kirana</strong>, we are committed to providing you with the freshest
                                     and highest quality products for your everyday needs.
                                     Our extensive range includes fresh
                                     vegetables, succulent meats, dairy products, pantry essentials, and much more. We carefully
@@ -39,7 +39,7 @@ const About = () => {
                                     always ready to assist you with any questions or concerns you may have. Your satisfaction is our
                                     top priority.<br /><br />
 
-                                    Experience the convenience and joy of shopping from the comfort of your home. Join us at <strong>Grocery</strong> and discover a new way to grocery shop.<br /><br />
+                                    Experience the convenience and joy of shopping from the comfort of your home. Join us at <strong>Kirana</strong> and discover a new way to grocery shop.<br /><br />
 
                                     Start shopping now and make your everyday life healthier and more convenient.
                                 </p>
